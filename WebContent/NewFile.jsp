@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>1234567890</h1>
+	<h1>헬로월드</h1>
 </body>
 </html>
